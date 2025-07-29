@@ -3,3 +3,9 @@ h1  {
     color: brown;
     font-size: 1em;
 }
+
+.viral {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
